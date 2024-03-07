@@ -36,7 +36,7 @@ Mobile
 ### Links
 
 - Solution URL: [My Frontend Mentor Solution](https://www.frontendmentor.io/solutions/social-links-profile-8bSavJBeBy)
-- Live Site URL: [Click for Live site](https://your-live-site-url.com)
+- Live Site URL: [Click for Live site](https://andypuddle.github.io/social-links-profile/)
 
 ## My process
 
