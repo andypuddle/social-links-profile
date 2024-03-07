@@ -25,11 +25,11 @@ Users should be able to:
 
 Desktop
 
-![](./assets/images/Desktop.png)
+![](https://github.com/andypuddle/social-links-profile/blob/main/images/Desktop.png?raw=true)
 
 Mobile
 
-![](./assets/images/Mobile.png)
+![](https://github.com/andypuddle/social-links-profile/blob/main/images/Mobile.png?raw=true)
 
 
 
